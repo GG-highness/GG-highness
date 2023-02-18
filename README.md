@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://readme-status-qsny.vercel.app/api/cards/profile-details?username=GG-highness&theme=dracula&count_private=true)
+![](https://readme-status-qsny.vercel.app/api/profile-details?username=GG-highness&theme=dracula&count_private=true)
 
-![](https://readme-status-qsny.vercel.app/api/cards/repos-per-language?username=GG-highness&theme=dracula&count_private=true)
+![](https://readme-status-qsny.vercel.app/api/repos-per-language?username=GG-highness&theme=dracula&count_private=true)
 
 ![](https://readme-status-qsny.vercel.app/api/top-langs?username=GG-highness&theme=dracula&count_private=true)
 
